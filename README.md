@@ -1,2 +1,2 @@
 # msc_ci
-Projects for Computational Intelligence and Statistical Learning - Msc in AI
+Projects for Computational Intelligence and Statistical Learning - MSc in AI
