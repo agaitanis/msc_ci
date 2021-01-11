@@ -1,2 +1,4 @@
 *.data
 *.mat
+*.csv
+*.tar.gz
